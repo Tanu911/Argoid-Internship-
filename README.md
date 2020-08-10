@@ -1,7 +1,7 @@
 # Argoid-Internship-
 Here I am to summarize my Assignment.
 
-I have used K-Means Clustering as my model for prediction of items.
+I have used **K-Means Clustering** as my model for prediction of items.
 Since we had to suggest two items to a person with every purchase, based on the previous purchases of a huge customer base, we could use the features given in the data.
 So, I first analyzed the data and then I made my own model from the very scratch as the data was very huge for any in-built function. Because they form matrix within of that size, which was an issue with this massive data!!!!
 
@@ -13,7 +13,7 @@ Then I plotted the new centers with the old ones for comparison.
 Then I built two functions: Predict and Itemname.
 
 
-And then stored my solutions in Predictions.csv.
+And then stored my solutions in *Predictions.csv*.
 
 
 The overall model is based on the pattern of choices made by the customers while buying things.
